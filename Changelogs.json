@@ -1,0 +1,7 @@
+{
+  "id": "chitrofx-9.3.0-dev-rebrand",
+  "title": "ChitroFX Pro v9.3.0 DEV",
+  "message": "🚀 ChitroFX Pro\n\nবাংলাদেশের Motion Designer-দের Smart After Effects Toolkit।\n\n🛠️ এই DEV build-এ নতুন ChitroFX branding, Telegram support, updater channel, browser-extension identity এবং production package naming যোগ করা হয়েছে।\n\nএটি এখনো production release নয়। সব feature local After Effects-এ পরীক্ষা শেষ হওয়ার পর signed ZXP প্রকাশ করা হবে।",
+  "enabled": true
+}
+
